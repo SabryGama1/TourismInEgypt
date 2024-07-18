@@ -1,0 +1,14 @@
+﻿@model CategoryViewModel
+
+<div >
+   
+    <div class="form-group">
+    <label asp-for="Name" class="col-form-label"></label>
+        <input asp-for="Name" class="form-control" readonly/>
+
+    </div>
+    <div class="form-group mt-4">
+        <label class="col-form-label fw-bold fs-4">Image</label>
+        <img src="~/@Model.ImgUrl" width="100" height="100" class="rounded-2 img-fluid" />
+    </div>
+</div>

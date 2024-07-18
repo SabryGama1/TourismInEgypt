@@ -1,0 +1,28 @@
+﻿
+@model CityPhotosViewModel
+@inject IUnitOfWork<City> _unitOfWork
+
+@{
+    var cities = new SelectList(await _unitOfWork.generic.GetAllAsync(), nameof(City.Id),nameof(City.Name));
+}
+<div class="form-group p-5 ">
+    <div asp-validation-summary="All"></div>
+
+    <div class="form-group">
+        <label asp-for="CityId" class="col-form-label fw-bold fs-4">City</label>
+        <select asp-for="CityId" class="form-select  form-select-lg mb-3" aria-label="Large select example" asp-items="@cities" >
+            <option value="@null">--Please Select A City</option>
+
+        </select>
+    </div>
+   
+    <div class="form-group">
+        <label asp-for="PhotoFile" class="control-label fw-bold fs-4"></label>
+        <input asp-for="PhotoFile" class="form-control form-control-lg" type="file" id="formFile" />
+        @*<span asp-validation-for="PhotoFile" class="text-danger"></span>*@
+    </div>
+
+         
+ </div>
+
+

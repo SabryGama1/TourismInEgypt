@@ -1,0 +1,47 @@
+﻿@model LoginUserModel
+@{
+    ViewData["Title"] = "Login";
+     Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<div class="main-agileinfo">
+    <div class="agileits-top">
+<form method="post" asp-action="Login"> 
+
+    
+
+    <!-- Email input -->
+                <div class="form-outline mb-4 ">
+                <label class="fs-3">UserName</label>
+                <input Class="text " style="margin: 1em 0;" asp-for="UserName" placeholder="UserName" class="form-control" />
+                     <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+
+    <!-- Password input -->
+                <div class="form-outline mb-4 ">
+                <label class="fs-3">password</label>
+                <input Class="text " style="margin: 1em 0;" type="password" asp-for="Password" placeholder="Password" class="form-control" />
+       
+            <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+                <div class="form-outline mb-4 ">
+                    <input Class="text w3lpass" type="checkbox" asp-for="RememberMe" class="form-check-input" />
+        <label class="form-check-label" class="form-label" asp-for="RememberMe">Remember me</label>
+  </div>
+
+   
+    <!-- Submit button -->
+
+            <input type="submit" value="Sign In"   />
+           
+            <!-- Register buttons -->
+    <div class="text-center">
+        <p>Not a member? <a asp-controller="Account" asp-action="Register">Register</a></p>
+   </div>
+
+   
+</form>
+</div>
+</div>
+

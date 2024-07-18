@@ -1,0 +1,195 @@
+﻿ <!-- ======= Header ======= -->
+    <header id="header" class="header fixed-top d-flex  " style="height=500px">
+
+        <div class="d-flex align-items-center justify-content-between">
+            <a href="index.html" class="logo d-flex align-items-center">
+                <img src="~/NiceAdmin/assets/img/WhatsApp Image 2023-09-27 at 23.03.49.png.jpg" alt="">
+                <span class="d-none d-lg-block">TRAVEL TREK</span>
+            </a>
+          <i class="bi bi-list toggle-sidebar-btn"></i>
+        </div><!-- End Logo -->
+
+    <div class="ms-auto ps-5 pt-2">
+        <div class="float-start pe-2 fs-3 fw-bold">
+            <a class="nav-link text-dark" asp-controller="User" asp-action="Index">Users </a>
+        </div>
+    </div>
+
+    <div class="ms-auto ps-5 pt-2">
+        <div class="float-start pe-2 fs-3 fw-bold">
+            <a class="nav-link text-dark" asp-controller="Role" asp-action="Index">Roles</a>
+        </div>
+    </div>
+       
+        <div class="ms-auto ps-5 pt-2">
+              <div class="float-start pe-2 fs-3 fw-bold">
+                <a class="nav-link text-dark" asp-controller="Account" asp-action="LogOut">LogOut </a>
+              </div>
+        </div>
+    
+    </header><!-- End Header -->
+    <!-- ======= Sidebar ======= -->
+<aside id="sidebar" class="sidebar">
+   
+        <ul class="sidebar-nav" id="sidebar-nav">
+
+        <li class="nav-item">
+            <a class="nav-link " href="https://localhost:7038">
+                <i class="bi bi-grid"></i>
+                <span>Dashboard</span>
+            </a>
+        </li><!-- End Dashboard Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-menu-button-wide"></i><span>City</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+
+
+                <li>
+                    <a asp-controller="City" asp-action="Create">
+                        <i class="bi bi-circle"></i><span>Create</span>
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="City" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+            </ul>
+        </li><!-- End City Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-journal-text"></i><span>City Photos</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="forms-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <li>
+                    <a asp-controller="CityPhotos" asp-action="Create">
+                        <i class="bi bi-circle"></i><span>Create</span>
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="CityPhotos" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li><!-- End CityPhotos Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#road-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-gem"></i><span>Category</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="road-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <li>
+                    <a asp-controller="Category" asp-action="Create">
+                        <i class="bi bi-circle"></i><span>Create</span>
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="Category" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li><!-- End Category Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-layout-text-window-reverse"></i><span>Place</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <li>
+                    <a asp-controller="Place" asp-action="Create">
+                        <i class="bi bi-circle"></i><span>Create</span>
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="Place" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+            </ul>
+        </li><!-- End Place Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#Qualif-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-bar-chart"></i><span>Place Photos</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="Qualif-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <li>
+                    <a asp-controller="PlacePhoto" asp-action="Create">
+                        <i class="bi bi-circle"></i><span>Create</span>
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="PlacePhoto" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li><!-- End Place Photos Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#Transac-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-gem"></i><span>Trip</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="Transac-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <li>
+                    <a asp-controller="Trip" asp-action="Create">
+                        <i class="bi bi-circle"></i><span>Create</span>
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="Trip" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li><!-- End Trip Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#RoadCraft-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-gem"></i><span>Place Trip</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="RoadCraft-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <li>
+                    <a asp-controller="Place_Trip" asp-action="Create">
+                        <i class="bi bi-circle"></i><span>Create</span>
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="Place_Trip" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li><!-- End Place Trip Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#RoadCraft-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-gem"></i><span>Review</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="RoadCraft-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                
+                <li>
+                    <a asp-controller="Review" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Show</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li><!-- End Review Nav -->
+
+       
+
+    </ul>
+    
+</aside><!-- End Sidebar-->

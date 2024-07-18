@@ -1,0 +1,85 @@
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\appsettings.Development.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\appsettings.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism Egypt.staticwebassets.runtime.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism Egypt.exe
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism Egypt.deps.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism Egypt.runtimeconfig.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism Egypt.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism Egypt.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\AutoMapper.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\BouncyCastle.Cryptography.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Castle.Core.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\CorePush.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Humanizer.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\MailKit.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.OpenApi.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\MimeKit.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\BouncyCastle.Crypto.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Security.Cryptography.Pkcs.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism.Core.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism.Repository.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism.Service.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism.Repository.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism.Core.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\bin\Release\net6.0\win-x64\Tourism.Service.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.csproj.AssemblyReference.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.AssemblyInfoInputs.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.AssemblyInfo.cs
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.csproj.CoreCompileInputs.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.MvcApplicationPartsAssemblyInfo.cs
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.MvcApplicationPartsAssemblyInfo.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\staticwebassets.build.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\staticwebassets.development.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\staticwebassets\msbuild.Tourism Egypt.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\staticwebassets\msbuild.build.Tourism Egypt.props
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.Tourism Egypt.props
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildTransitive.Tourism Egypt.props
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\staticwebassets.pack.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\scopedcss\bundle\Tourism Egypt.styles.css
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism .7A1C046F.Up2Date
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\refint\Tourism Egypt.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\Tourism Egypt.genruntimeconfig.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism Egypt\obj\Release\net6.0\win-x64\ref\Tourism Egypt.dll

@@ -1,0 +1,49 @@
+﻿@model TourismMVC.ViewModels.UserRoleViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h1>Edit @Model.Name</h1>
+
+<div class="m-auto w-75 bg-white p-5">
+    <h1>Edit Role</h1>
+
+    <hr />
+
+    <form asp-action="Edit" method="post">
+        <div asp-validation-summary="All"></div>
+        <input asp-for="Id" class="form-control" hidden />
+
+        <div>
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" disabled />
+        </div>
+
+        <h3>Manage Roles</h3>
+        <hr />
+        @for (int i = 0; i < Model.Roles.Count; i++)
+        {
+            <div>
+                <input asp-for="@Model.Roles[i].RoleName" hidden />
+                <input asp-for="@Model.Roles[i].IsSelected" class="form-check-input" />
+                <label class="form-check-label" asp-for="@Model.Roles[i]">@Model.Roles[i].RoleName</label>
+                <span asp-validation-for="Roles" class="text-danger"></span>
+
+
+            </div>
+        }
+
+
+
+
+
+        <div class="form-group mt-4">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back to List</a>
+        </div>
+
+    </form>
+
+</div>

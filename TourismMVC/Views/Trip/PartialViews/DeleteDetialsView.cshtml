@@ -1,0 +1,103 @@
+﻿@model TourismMVC.ViewModels.TripViewModel 
+
+
+
+
+<div class="p-5">
+
+    <div class="form-group">
+        <label asp-for="Id" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Id" class="form-control" readonly />
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Name" class="form-control" readonly />
+
+    </div>
+    <div class="form-group">
+        <label asp-for="City" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="City" class="form-control" readonly />
+
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Description" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Description" class="form-control" readonly />
+
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="StartDate" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="StartDate" class="form-control" readonly />
+
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="EndDate" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="EndDate" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group mt-4">
+        <label asp-for="ImgUrl" class="col-form-label fw-bold fs-4"></label>
+        <img src="~/@Model.ImgUrl" width="100" height="100" class="rounded-2 img-fluid" />
+
+    </div>
+
+    
+</div>
+
+
+
+
+
+@*<div class="card-body">
+    <h5 class="card-title">Trip Details</h5>
+
+    <ul>
+        <li class="card-text">
+
+            <label asp-for="Name" class="col-form-label"></label>
+            : @Model.Name
+        </li>
+        <li class="card-text">
+            <label asp-for="City" class="col-form-label"></label>
+
+            : @Model.City
+        </li>
+        
+        <li class="card-text">
+            <label asp-for="Description" class="col-form-label"></label>
+
+           : @Model.Description</li>
+        <li class="card-text">
+            <label asp-for="StartDate" class="col-form-label"></label>
+            : @Model.StartDate
+        </li>
+        <li class="card-text">
+            <label asp-for="EndDate" class="col-form-label"></label>
+
+           : @Model.EndDate</li>
+        <li class="card-text">
+            <label asp-for="CreatedDate" class="col-form-label"></label>
+
+            : @Model.CreatedDate
+        </li>
+        <li class="card-text">
+            <label asp-for="ModifiedDate" class="col-form-label"></label>
+
+            : @Model.ModifiedDate
+        </li>
+        <li class="card-text">
+            <label asp-for="IsActive" class="col-form-label"></label>
+
+            : @Model.IsActive
+        </li>
+        <li class="card-text">
+            <label asp-for="ImgUrl" class="col-form-label"></label>
+
+            : @Model.ImgUrl
+        </li>
+    </ul>
+</div>*@

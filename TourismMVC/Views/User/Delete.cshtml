@@ -1,0 +1,50 @@
+﻿@model UserViewModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="card text-dark bg-light mb-3" style="width:100% ; height: 100%">
+    <div class="card-header" style="font-size:x-large ; font-family:Arial ; font-style:italic ; font-weight:bold ; color :darkblue">Delete Card</div>
+    <div>
+
+        <div>
+
+            <div class="form-group">
+                <label asp-for="Id" class="col-form-label"></label>
+                <input asp-for="Id" class="form-control" readonly />
+
+            </div>
+            <div class="form-group">
+                <label asp-for="UserName" class="col-form-label"></label>
+                <input asp-for="UserName" class="form-control" readonly />
+
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DisplayName" class="col-form-label"></label>
+                <input asp-for="DisplayName" class="form-control" readonly />
+
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email" class="col-form-label"></label>
+                <input asp-for="Email" class="form-control" readonly />
+
+            </div>
+        </div>
+       
+        
+            <div class="form-group mt-4">
+                <form method="post" asp-action="Delete">
+                <input type="submit" value="Save" class="btn btn-primary" style="margin-left : 20px"/>
+                <a asp-action="Index" class="btn btn-light">Back to List</a>
+
+            </form>
+            </div>
+      
+    </div>
+
+    <br />
+
+</div>
+

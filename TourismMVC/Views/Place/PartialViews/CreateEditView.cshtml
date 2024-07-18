@@ -1,0 +1,62 @@
+﻿@model PlaceViewModel
+@inject IUnitOfWork<City> _unitOfWork1
+@inject IUnitOfWork<Category> _unitOfWork2
+@{
+    var cities = new SelectList(await _unitOfWork1.generic.GetAllAsync(),nameof(City.Id), nameof(City.Name));
+    var categories = new SelectList(await _unitOfWork2.generic.GetAllAsync(), nameof(Category.Id), nameof(Category.Name));
+
+}
+<div class="form-group  ">
+   <div asp-validation-summary="All"></div>
+          
+            <div class="form-group">
+        <label asp-for="Name" class="col-form-label fw-bold fs-4"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+    </div> 
+    
+    <div class="form-group">
+        <label asp-for="Description" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Location" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Rating" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Rating" class="form-control" />
+        <span asp-validation-for="Rating" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Link" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Link" class="form-control" />
+        <span asp-validation-for="Link" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone" class="col-form-label fw-bold fs-4"></label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="City" class="col-form-label fw-bold fs-4">City</label>
+        <select asp-for="CityId" class="form-select  form-select-lg mb-3" aria-label="Large select example" asp-items="@cities" >
+            <option>--Please Select A City</option>
+
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Category" class="=col-form-label fw-bold fs-4">Category</label>
+        <select asp-for="CategoryId" class="form-select  form-select-lg mb-3" aria-label="Large select example" asp-items="@categories" >
+            <option value="@null">--Please Select A Category</option>
+        </select>
+    </div>
+   
+
+</div>
+
+

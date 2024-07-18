@@ -1,0 +1,335 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TourismMVC
+build_property.RootNamespace = TourismMVC
+build_property.ProjectDir = E:\Final Graduation\Tourism\Tourism-In-Egypt\TourismMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Final Graduation\Tourism\Tourism-In-Egypt\TourismMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Account/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Category/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcUGFydGlhbFZpZXdzXENyZWF0ZUVkaXRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Category/PartialViews/DeleteDetialsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcUGFydGlhbFZpZXdzXERlbGV0ZURldGlhbHNWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/CityPhotos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVBob3Rvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/CityPhotos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVBob3Rvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/CityPhotos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVBob3Rvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/CityPhotos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVBob3Rvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/CityPhotos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVBob3Rvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/CityPhotos/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVBob3Rvc1xQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/CityPhotos/PartialViews/DeleteDetialsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVBob3Rvc1xQYXJ0aWFsVmlld3NcRGVsZXRlRGV0aWFsc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/City/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/City/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/City/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/City/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/City/PartialViews/DeleteDetialsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxQYXJ0aWFsVmlld3NcRGVsZXRlRGV0aWFsc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/PlacePhoto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VQaG90b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/PlacePhoto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VQaG90b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/PlacePhoto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VQaG90b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/PlacePhoto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VQaG90b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/PlacePhoto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VQaG90b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/PlacePhoto/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VQaG90b1xQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/PlacePhoto/PartialViews/DeleteDetialsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VQaG90b1xQYXJ0aWFsVmlld3NcRGVsZXRlRGV0aWFsc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VcUGFydGlhbFZpZXdzXENyZWF0ZUVkaXRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place/PartialViews/DeleteDetialsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VcUGFydGlhbFZpZXdzXERlbGV0ZURldGlhbHNWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place_Trip/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VfVHJpcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place_Trip/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VfVHJpcFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place_Trip/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VfVHJpcFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place_Trip/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VfVHJpcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place_Trip/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VfVHJpcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place_Trip/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VfVHJpcFxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Place_Trip/PartialViews/DetailsDeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhY2VfVHJpcFxQYXJ0aWFsVmlld3NcRGV0YWlsc0RlbGV0ZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Review/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Review/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Review/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Review/PartialViews/DetailsDeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XFBhcnRpYWxWaWV3c1xEZXRhaWxzRGVsZXRlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Role/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Role/PartialViews/DeleteDetialsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcRGVsZXRlRGV0aWFsc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/_HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/_MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NeUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/_NavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Trip/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Trip/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Trip/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Trip/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Trip/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Trip/PartialViews/CreateEditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Trip/PartialViews/DeleteDetialsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxQYXJ0aWFsVmlld3NcRGVsZXRlRGV0aWFsc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Final Graduation/Tourism/Tourism-In-Egypt/TourismMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-36mjshn1qp

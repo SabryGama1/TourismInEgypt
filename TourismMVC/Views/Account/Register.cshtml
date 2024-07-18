@@ -1,0 +1,49 @@
+﻿@model TourismMVC.ViewModels.RegisterUserModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<div class="main-agileinfo">
+    <div class="agileits-top">
+        <form asp-action="Register" method="post" enctype="multipart/form-data">
+            @*<div asp-validation-summary="All"></div>
+*@
+
+            <div class="form-group">
+                <input class="text w3lpass" asp-for="FName" placeholder="FName" required="">
+                <span asp-validation-for="FName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input class="text w3lpass" asp-for="LName" placeholder="LName" required="">
+                <span asp-validation-for="LName" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input class="text w3lpass" asp-for="Password" placeholder="Password" required="">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+           @* <div class="form-group">
+                <input class="text w3lpass" asp-for="ConfirmedPassword" placeholder="Confirm Password" required="">
+                <span asp-validation-for="ConfirmedPassword" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+
+                <input class="text" asp-for="UserName" placeholder="Username" required="">
+
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input class="text email" asp-for="Email" placeholder="Email" required="">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+        <p>Don't have an Account? <a asp-controller="Account" asp-action="Login"> Login Now!</a></p>
+    </div>
+</div>
+

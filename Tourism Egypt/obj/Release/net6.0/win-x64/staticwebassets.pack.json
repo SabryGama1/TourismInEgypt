@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\category\\Hotel.png",
+      "PackagePath": "staticwebassets\\images\\category\\Hotel.png"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\category\\museum.png",
+      "PackagePath": "staticwebassets\\images\\category\\museum.png"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\category\\resturant.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\resturant.jpg"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\cities\\Alex._3.jpg",
+      "PackagePath": "staticwebassets\\images\\cities\\Alex._3.jpg"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\cities\\Cairo_From_Tower.jpg",
+      "PackagePath": "staticwebassets\\images\\cities\\Cairo_From_Tower.jpg"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\places\\caironilehotel.png",
+      "PackagePath": "staticwebassets\\images\\places\\caironilehotel.png"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\places\\tolip.png",
+      "PackagePath": "staticwebassets\\images\\places\\tolip.png"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\trips\\alex.PNG",
+      "PackagePath": "staticwebassets\\images\\trips\\alex.PNG"
+    },
+    {
+      "Id": "E:\\Final Graduation\\Tourism\\Tourism-In-Egypt\\Tourism Egypt\\wwwroot\\images\\trips\\pyramids.PNG",
+      "PackagePath": "staticwebassets\\images\\trips\\pyramids.PNG"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.Tourism Egypt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.build.Tourism Egypt.props",
+      "PackagePath": "build\\Tourism Egypt.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Tourism Egypt.props",
+      "PackagePath": "buildMultiTargeting\\Tourism Egypt.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Tourism Egypt.props",
+      "PackagePath": "buildTransitive\\Tourism Egypt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

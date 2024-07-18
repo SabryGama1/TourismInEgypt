@@ -1,0 +1,57 @@
+﻿@model PlaceViewModel
+
+<div >
+   
+    <div class="form-group">
+    <label asp-for="Id" class="col-form-label"></label>
+        <input asp-for="Id" class="form-control" readonly/>
+
+    </div>
+    <div class="form-group">
+    <label asp-for="Name" class="col-form-label"></label>
+     <input asp-for="Name" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="col-form-label"></label>
+        <input asp-for="Description" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Location" class="col-form-label"></label>
+        <input asp-for="Location" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Rating" class="col-form-label"></label>
+        <input asp-for="Rating" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Link" class="col-form-label"></label>
+        <input asp-for="Link" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Phone" class="col-form-label"></label>
+        <input asp-for="Phone" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="City.Name" class="col-form-label"></label>
+        <input value="@Model.City.Name" class="form-control" readonly />
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Category.Name" class="col-form-label"></label>
+        <input value="@Model.Category.Name" class="form-control" readonly />
+
+    </div>
+</div>

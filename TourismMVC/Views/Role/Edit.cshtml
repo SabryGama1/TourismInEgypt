@@ -1,0 +1,45 @@
+﻿@model TourismMVC.ViewModels.RoleEditViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="m-auto w-75 bg-white p-5">
+    <h1>Edit Role</h1>
+
+    <hr />
+
+    <form asp-action="Edit" method="post">
+
+
+
+        <div class="form-group  ">
+            <div asp-validation-summary="All"></div>
+
+            <div class="form-group">
+                <label asp-for="RoleName" class="control-label"></label>
+                <input asp-for="RoleName" class="form-control" />
+                <span asp-validation-for="RoleName" class="text-danger"></span>
+            </div>
+           @* <div class="form-group">
+                <label asp-for="IsSelected" class="control-label"></label>
+                <input asp-for="IsSelected" class="form-control" />
+                <span asp-validation-for="IsSelected" class="text-danger"></span>
+            </div>*@
+        </div>
+
+
+
+
+        <div class="form-group mt-4">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back to List</a>
+        </div>
+    </form>
+
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+
+}

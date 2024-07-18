@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism Egypt", "Tourism Egypt\Tourism Egypt.csproj", "{FFAD2780-31A5-4B54-9EB1-36BE18AE06B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism.Core", "Tourism.Core\Tourism.Core.csproj", "{E528DBEB-5339-4009-B7C5-336E3865ED4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism.Repository", "Tourism.Repository\Tourism.Repository.csproj", "{FA21AFF2-F83D-45EF-ABB3-EE108714A997}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism.Service", "Tourism.Service\Tourism.Service.csproj", "{36A2F147-5299-4DBF-A974-0B6DFA1B00B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TourismMVC", "TourismMVC\TourismMVC.csproj", "{5A24F3A5-ACF8-4551-A9FF-E5AC0D4A8D08}"
+	ProjectSection(ProjectDependencies) = postProject
+		{36A2F147-5299-4DBF-A974-0B6DFA1B00B4} = {36A2F147-5299-4DBF-A974-0B6DFA1B00B4}
+		{E528DBEB-5339-4009-B7C5-336E3865ED4A} = {E528DBEB-5339-4009-B7C5-336E3865ED4A}
+		{FA21AFF2-F83D-45EF-ABB3-EE108714A997} = {FA21AFF2-F83D-45EF-ABB3-EE108714A997}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAD2780-31A5-4B54-9EB1-36BE18AE06B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAD2780-31A5-4B54-9EB1-36BE18AE06B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAD2780-31A5-4B54-9EB1-36BE18AE06B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAD2780-31A5-4B54-9EB1-36BE18AE06B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E528DBEB-5339-4009-B7C5-336E3865ED4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E528DBEB-5339-4009-B7C5-336E3865ED4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E528DBEB-5339-4009-B7C5-336E3865ED4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E528DBEB-5339-4009-B7C5-336E3865ED4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA21AFF2-F83D-45EF-ABB3-EE108714A997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA21AFF2-F83D-45EF-ABB3-EE108714A997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA21AFF2-F83D-45EF-ABB3-EE108714A997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA21AFF2-F83D-45EF-ABB3-EE108714A997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A2F147-5299-4DBF-A974-0B6DFA1B00B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A2F147-5299-4DBF-A974-0B6DFA1B00B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A2F147-5299-4DBF-A974-0B6DFA1B00B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A2F147-5299-4DBF-A974-0B6DFA1B00B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A24F3A5-ACF8-4551-A9FF-E5AC0D4A8D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A24F3A5-ACF8-4551-A9FF-E5AC0D4A8D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A24F3A5-ACF8-4551-A9FF-E5AC0D4A8D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A24F3A5-ACF8-4551-A9FF-E5AC0D4A8D08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4761CA65-D4DF-43DA-B4C9-FB296A90065D}
+	EndGlobalSection
+EndGlobal

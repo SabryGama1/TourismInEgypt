@@ -1,0 +1,34 @@
+﻿
+@model Place_Trip
+<div class="card-body">
+    <h5 class="card-title">Review Details</h5>
+
+    <ul>
+        <li class="card-text">
+
+            <label  class="col-form-label">Place Name</label>
+            : @Model.Place.Name
+        </li>
+        <li class="card-text">
+            <label  class="col-form-label">Trip Name</label>
+
+           : @Model.Trip.Name</li>
+        
+          
+        <li class="card-text">
+            <label asp-for="CreatedDate" class="col-form-label"></label>
+
+            : @Model.CreatedDate
+        </li>
+        <li class="card-text">
+            <label asp-for="ModifiedDate" class="col-form-label"></label>
+
+            : @Model.ModifiedDate
+        </li>
+        <li class="card-text">
+            <label asp-for="IsActive" class="col-form-label"></label>
+
+            : @Model.IsActive
+        </li>
+    </ul>
+</div>

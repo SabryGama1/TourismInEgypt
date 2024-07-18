@@ -1,0 +1,25 @@
+﻿@model TourismMVC.ViewModels.PlacePhotoViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+
+<div class="m-auto w-75 bg-white p-5">
+    <h1>Place Photo Details </h1>
+
+
+    <hr />
+
+    <div>
+        <div asp-validation-summary="ModelOnly"></div>
+        <partial name="PartialViews/DeleteDetialsView" />
+
+        <div class=" mt-2 p-5">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+
+            <a asp-action="Index" class="btn btn-light">Back to List</a>
+        </div>
+    </div>
+</div>

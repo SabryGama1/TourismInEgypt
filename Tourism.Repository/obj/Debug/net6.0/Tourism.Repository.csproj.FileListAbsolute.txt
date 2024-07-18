@@ -1,0 +1,17 @@
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\bin\Debug\net6.0\Tourism.Repository.deps.json
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\bin\Debug\net6.0\Tourism.Repository.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\bin\Debug\net6.0\Tourism.Repository.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\bin\Debug\net6.0\Tourism.Core.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\bin\Debug\net6.0\Tourism.Service.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\bin\Debug\net6.0\Tourism.Core.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\bin\Debug\net6.0\Tourism.Service.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism.Repository.csproj.AssemblyReference.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism.Repository.AssemblyInfoInputs.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism.Repository.AssemblyInfo.cs
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism.Repository.csproj.CoreCompileInputs.cache
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism..4B36A148.Up2Date
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism.Repository.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\refint\Tourism.Repository.dll
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\Tourism.Repository.pdb
+E:\Final Graduation\Tourism\Tourism-In-Egypt\Tourism.Repository\obj\Debug\net6.0\ref\Tourism.Repository.dll

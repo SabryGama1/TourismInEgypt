@@ -1,0 +1,25 @@
+﻿@model Place_TripModel
+
+<div class="form-group  ">
+    <div asp-validation-summary="All"></div>
+         
+            <div class="form-group">
+                <label asp-for="PlaceId" class="col-form-label"></label>
+        <select asp-for="PlaceId" asp-items="@(new SelectList(Model.places,"Id","Name"))">
+            <option value="0">select a department</option>
+        </select>
+                <span asp-validation-for="PlaceId" class="text-danger"></span>
+            </div>
+    <div class="form-group">
+        <label asp-for="TripId" class="col-form-label"></label>
+        <select asp-for="TripId" asp-items="@(new SelectList(Model.trips,"Id","Name"))">
+            <option value="0">select a department</option>
+        </select> 
+        <span asp-validation-for="TripId" class="text-danger"></span>
+    </div>
+    
+   
+        
+        </div>
+
+

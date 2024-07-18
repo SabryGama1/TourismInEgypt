@@ -1,0 +1,60 @@
+﻿
+@model Review
+<div class="card-body">
+    <h5 class="card-title">Review Details</h5>
+
+    <ul>
+        <li class="card-text">
+
+            <label asp-for="Message" class="col-form-label"></label>
+            : @Model.Message
+        </li>
+        <li class="card-text">
+            <label asp-for="Rating" class="col-form-label"></label>
+
+           : 
+
+            @for (float i = 0; i < @Model.Rating; i++)
+                {
+                    <i class="bi bi-star-fill rating-color"></i>
+                }
+            @for (float i = @Model.Rating; i < 5; i++)
+                {
+                    <i class="bi bi-star"></i>
+                }
+           
+        </li>
+        <li class="card-text">
+            <label asp-for="Time" class="col-form-label"></label>
+
+           : @Model.Time</li>
+        <li class="card-text">
+            <label asp-for="User.FName" class="col-form-label"></label>
+            : @Model.User.FName
+        </li>
+        <li class="card-text">
+            <label asp-for="Place.Name" class="col-form-label"></label>
+
+           : @Model.Place.Name</li>
+        <li class="card-text">
+            <label asp-for="CreatedDate" class="col-form-label"></label>
+
+            : @Model.CreatedDate
+        </li>
+        <li class="card-text">
+            <label asp-for="ModifiedDate" class="col-form-label"></label>
+
+            : @Model.ModifiedDate
+        </li>
+        <li class="card-text">
+            <label asp-for="IsActive" class="col-form-label"></label>
+
+            : @Model.IsActive
+        </li>
+        <li class="card-text">
+            <label asp-for="IsDeleted" class="col-form-label"></label>
+
+            : @Model.IsDeleted
+        </li>
+    </ul>
+</div>

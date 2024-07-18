@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<partial name="_HeadPartial"></partial>
+<body>
+
+    <partial name="_NavPartial"></partial>
+    <main id="main" class="main">
+        @RenderBody()
+
+    </main><!-- End #main -->
+
+    <partial name="_FooterPartial"></partial>
+
+    <!-- Vendor JS Files -->
+
+    <script src="~/NiceAdmin/assets/vendor/apexcharts/apexcharts.min.js"></script>
+    <script src="~/NiceAdmin/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/NiceAdmin/assets/vendor/chart.js/chart.umd.js"></script>
+    <script src="~/NiceAdmin/assets/vendor/echarts/echarts.min.js"></script>
+    <script src="~/NiceAdmin/assets/vendor/quill/quill.min.js"></script>
+    <script src="~/NiceAdmin/assets/vendor/simple-datatables/simple-datatables.js"></script>
+    <script src="~/NiceAdmin/assets/vendor/tinymce/tinymce.min.js"></script>
+    <script src="~/NiceAdmin/assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="~/NiceAdmin/assets/js/main.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>
